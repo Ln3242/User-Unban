@@ -17,6 +17,7 @@ chr.RightUpperLeg.TextureID = "http://roblox.com/asset/?id=902843398"
 chr.RightFoot.MeshId = "902942089"
 chr.RightFoot.Transparency = "1"
 wait(1)
+game.Players.LocalPlayer:kick("User BANNED")
 end
 
-game.Players.LocalPlayer:kick("User BANNED")
+
